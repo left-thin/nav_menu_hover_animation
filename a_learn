@@ -1,0 +1,11 @@
+--- bài này căn hơi thủ công 
+--- cơ chế là cho thẻ animation là thằng con của thẻ nav để trượt được trên thẻ nav
+--- tạo menu mà không dùng ul li --->>> mà dùng thẻ a và căn chay bằng width 
+--- sau đó chỉnh chữ cho center --- với line-height bằng thẻ cha để căn giữa @@
+
+--- còn về phần animation : nhớ là muốn trượt trên thằng nào thì đặt là con cấp 1 của thằng đó
+--- dùng position absolute của thằng cha là relative
+
+--- css selector a~b : tức là truy xuất đến tất cả thẻ b đứng sau thẻ a trong code ^^ 
+
+link : https://www.youtube.com/watch?v=KwoSm0E8MOE
